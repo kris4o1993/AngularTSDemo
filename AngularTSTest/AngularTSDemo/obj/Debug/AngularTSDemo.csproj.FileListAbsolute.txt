@@ -1,0 +1,6 @@
+c:\users\pcuser_2\documents\visual studio 2013\Projects\AngularTSTest\AngularTSDemo\bin\AngularTSDemo.dll
+c:\users\pcuser_2\documents\visual studio 2013\Projects\AngularTSTest\AngularTSDemo\bin\AngularTSDemo.pdb
+c:\users\pcuser_2\documents\visual studio 2013\Projects\AngularTSTest\AngularTSDemo\obj\Debug\AngularTSDemo.csprojResolveAssemblyReference.cache
+c:\users\pcuser_2\documents\visual studio 2013\Projects\AngularTSTest\AngularTSDemo\obj\Debug\AngularTSDemo.dll
+c:\users\pcuser_2\documents\visual studio 2013\Projects\AngularTSTest\AngularTSDemo\obj\Debug\AngularTSDemo.pdb
+c:\users\pcuser_2\documents\visual studio 2013\Projects\AngularTSTest\AngularTSDemo\bin\AngularTSDemo.dll.config

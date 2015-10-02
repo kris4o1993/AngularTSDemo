@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>AngularJS With TypeScript Demo</title>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/ui-bootstrap-csp.css" rel="stylesheet" />
+</head>
+<body ng-app="angularTS">
+
+    <div class="container">
+        <div class="page-header">Click the button below to get the card.</div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div ng-view>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="app/app.routes.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/services/cardsService.js"></script>
+    <script src="app/controllers/demoController.js"></script>
+
+</body>
+</html>
